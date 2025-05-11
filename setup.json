@@ -1,12 +1,12 @@
 [
     {
         "session": "ses",
-        "token": "764xxxx91:AAFEm1xxxxxxz5txhxgmk",
-        "api_id": "26xxxx00",
-        "api_hash": "9ea494xxxxxxxxxxx4bbd",
+        "token": "8155156190:AAH8SkIaI69cXXqWCivxtr6tjT6Fa3nMuf8",
+        "api_id": "25984365",
+        "api_hash": "f16f22343566116e2319621b07ba5013",
         "workers": 8,
-        "db_uri": "mongodb+srv://Clustexxxxxxxxxxx.net/?retryWrites=true&w=majority&appName=Cluster0",
-        "db_name": "name",
+        "db_uri": "mongodb+srv://kanekikenofficial3009:Z4OFwTNMQN1COrtA@cluster0.mphkb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "Kaneki",
         "fsubs": [[-1002074478106, true, 5]],
         "db": -1002074478106,
         "auto_del": 0,
