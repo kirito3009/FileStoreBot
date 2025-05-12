@@ -5,7 +5,7 @@
         "api_id": "25984365",
         "api_hash": "f16f22343566116e2319621b07ba5013",
         "workers": 8,
-        "db_uri": "mongodb+srv://kanekikenofficial3009:Z4OFwTNMQN1COrtA@cluster0.mphkb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_uri": "mongodb+srv://goatkirito:O3qpc8e9XjiMeva0@cluster0.kequx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
         "db_name": "Kaneki",
         "fsubs": [[-1002176961000, true, 5]],
         "db": -1002291198533,
