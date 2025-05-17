@@ -4,7 +4,7 @@ from logging.handlers import RotatingFileHandler
 LOG_FILE_NAME = "bot.log"
 PORT = '8020'
 OWNER_ID = 6673527661
-MSG_EFFECT = 5104841245755180586
+MSG_EFFECT = 5046509860389126442
 
 def LOGGER(name: str, client_name: str) -> logging.Logger:
     logger = logging.getLogger(name)
